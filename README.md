@@ -1,2 +1,2 @@
 # TSC
-it tinkoff solution cup
+it's tinkoff solution cup
